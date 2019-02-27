@@ -1,7 +1,7 @@
 {
     "name": "faleki/session-message",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Filipe Levandovski",
