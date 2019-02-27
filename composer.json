@@ -1,0 +1,13 @@
+{
+    "name": "faleki-/session-message",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Filipe Levandovski",
+            "email": "filipelevandovski@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
